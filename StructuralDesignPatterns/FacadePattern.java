@@ -1,6 +1,5 @@
 public class Main {
 
-    // Subsystem classes
     static class Engine {
         void start() { System.out.println("Engine started"); }
     }
