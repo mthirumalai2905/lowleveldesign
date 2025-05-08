@@ -1,4 +1,6 @@
 public class Main{
+
+    // Changes in the state of the object
     interface State{
         void handle();
     }
